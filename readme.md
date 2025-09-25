@@ -1,13 +1,24 @@
+<h1 align="center">Hello! Welcome to my GitHub 👋</h1>
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdinasir909&layout=compact&theme=dark" height="200"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdinasir909&show_icons=true&hide_rank=true&card_width=300&theme=dark" height="200"/>
-  </a>
+  <!-- Profile Details -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdinasir909&theme=github_dark" height="200"/>
 </p>
 
 <p align="center">
+  <!-- Languages -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdinasir909&theme=github_dark" height="200"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdinasir909&theme=github_dark" height="200"/>
+</p>
+
+<p align="center">
+  <!-- Stats + Commits -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdinasir909&theme=github_dark" height="200"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdinasir909&theme=github_dark&utcOffset=2" height="200"/>
+</p>
+
+<p align="center">
+  <!-- OS Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="45" height="45" />
