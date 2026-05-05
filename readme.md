@@ -1,22 +1,17 @@
 <h1 align="center">Hello! Welcome to my GitHub 👋</h1>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdinasir909&theme=github_dark" height="200"/>
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdinasir909&theme=github_dark" height="200"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdinasir909&theme=github_dark" height="200"/>
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180"/>
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" height="180"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdinasir909&theme=github_dark" height="200"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdinasir909&theme=github_dark&utcOffset=2" height="200"/>
-</p>
-
-<!-- Bruk DIN Vercel URL her -->
-<p align="center">
-  <img src="https://DIN-VERCEL-URL.vercel.app/?username=Abdinasir909&layout=compact&langs_count=15&theme=github_dark&include_all_commits=true&count_private=true" height="200"/>
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" height="180"/>
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180"/>
 </p>
 
 <p align="center">
